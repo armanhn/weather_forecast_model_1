@@ -1,0 +1,28 @@
+
+
+body{
+    background:url(images/img.jpg);
+    height: 100vh;
+    width: 100%;
+}
+#weather-content{
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px 5px rgba(128, 128, 128, 0.5);
+    max-width: 45%;
+    padding: 50 0px;
+
+}
+#data{
+    padding-top: 50 0px;
+}
+
+
+#myCarousel{
+    height: 310px;
+    padding:50 0px;
+    text-shadow: 1px 1px wheat;
+    color:#352e57;
+    background-color: rgb(215, 241, 253);
+    opacity: 0.67;
+    
+}
